@@ -1,0 +1,176 @@
+{
+  "social_stories": [
+    {
+      "title": "Getting a Haircut",
+      "content": "Today I am getting a haircut. I sit in the big chair. The barber puts a cape around me. The scissors make a snipping sound. The clippers buzz near my ears. This can feel tickly. I can squeeze my fidget toy if it is too much. When the barber finishes, my hair looks neat. I did a great job!",
+      "age_range": "3-8",
+      "triggers": ["buzzing sounds", "touch sensitivity", "unexpected movements"],
+      "skills": ["grooming", "tolerance", "sitting still"]
+    },
+    {
+      "title": "Going to the Grocery Store",
+      "content": "Today I am going to the grocery store with my parent. The store has bright lights and many people. It can be loud. I can wear my headphones if I need to. I can help by holding the shopping list. We find each item together. When we pay we are almost done. We go to the car and drive home. I was very helpful today!",
+      "age_range": "4-6",
+      "triggers": ["loud noises", "bright lights", "crowds"],
+      "skills": ["shopping", "coping", "helping"]
+    },
+    {
+      "title": "Calming Down When Upset",
+      "content": "Sometimes I feel upset. My face gets hot. My heart beats fast. When this happens I can take 3 deep breaths. I breathe in slowly. I breathe out slowly. I count to 10. I can go to my quiet corner. When I feel calm I can use my words to say how I feel. It is okay to feel upset. I can always calm down.",
+      "age_range": "4-10",
+      "triggers": ["emotional overwhelm", "sensory overload"],
+      "skills": ["self-regulation", "emotional awareness", "communication"]
+    },
+    {
+      "title": "Making a New Friend",
+      "content": "I see someone I want to be friends with. I can walk up and say Hi my name is. I can ask what their name is. I can ask what they like to play. I listen when they talk. Then I tell them what I like. If they do not want to talk that is okay. I can try again another day. Making friends takes time.",
+      "age_range": "6-8",
+      "triggers": ["rejection", "social uncertainty"],
+      "skills": ["greeting", "conversation", "resilience"]
+    },
+    {
+      "title": "Eating Lunch at School",
+      "content": "At lunchtime I line up with my class. I get my lunch tray. I find a seat at the table. The cafeteria is noisy. Many children are talking. I will try to eat my lunch. If I feel overwhelmed I can ask my teacher to eat in a quieter place. I eat my food. When I finish I put my tray away. Lunchtime is done.",
+      "age_range": "5-10",
+      "triggers": ["loud noises", "strong smells", "crowded spaces"],
+      "skills": ["eating", "self-advocacy", "following routines"]
+    },
+    {
+      "title": "Riding the School Bus",
+      "content": "I wait at the bus stop with my parent. The bus comes. I get in line. I say hello to the bus driver. I sit in my seat and put on my seatbelt. The bus can be noisy. I can look out the window or use my headphones. When we arrive at school the bus stops. I wait for my row to stand up. I say goodbye to the driver. I did it!",
+      "age_range": "5-12",
+      "triggers": ["loud noises", "crowded spaces", "transitions"],
+      "skills": ["transportation", "safety", "following rules"]
+    },
+    {
+      "title": "Going to the Doctor",
+      "content": "Today I am going to see the doctor. We sit in the waiting room. When it is my turn we go to the exam room. The doctor wants to check that I am healthy. The doctor will look in my ears and my mouth. They may press on my tummy. This is to help me feel well. I can tell the doctor if something hurts. When we are done we go home. I was very brave today!",
+      "age_range": "3-10",
+      "triggers": ["unexpected touch", "white coat", "waiting"],
+      "skills": ["medical visits", "communication", "bravery"]
+    },
+    {
+      "title": "Taking Turns on the Swing",
+      "content": "At the playground there is one swing. Many children want to use it. I need to wait for my turn. I can count to 30 while someone else swings. Then it is my turn. Waiting is hard but I can do it. When I am on the swing I count to 30 too. Then it is someone else's turn. Taking turns makes everyone happy.",
+      "age_range": "5-7",
+      "triggers": ["waiting", "playground noises"],
+      "skills": ["turn-taking", "patience", "counting"]
+    },
+    {
+      "title": "Attending a Birthday Party",
+      "content": "Today I am going to a birthday party. There will be music and many people. It might be very loud. I can ask for a break in a quiet spot if I need one. There will be cake and balloons. When everyone sings Happy Birthday I can cover my ears if it is too loud. I can stay close to my parent. Parties can be fun even if they are loud.",
+      "age_range": "4-9",
+      "triggers": ["loud noises", "crowded spaces", "bright decorations"],
+      "skills": ["social participation", "coping", "communication"]
+    },
+    {
+      "title": "Handling a Change in Routine",
+      "content": "Sometimes things change. Today we are not following our usual plan. A change can feel uncomfortable. That feeling is okay. I can take a deep breath. I can ask my parent what will happen instead. Changes do not last forever. After the change things will be normal again. I can handle changes. I am flexible and strong.",
+      "age_range": "5-12",
+      "triggers": ["unexpected change", "disrupted routine"],
+      "skills": ["flexibility", "coping", "self-regulation"]
+    }
+  ],
+  "visual_schedules": [
+    {
+      "title": "Morning Routine",
+      "steps": [
+        "Wake up",
+        "Use the bathroom",
+        "Wash face and hands",
+        "Get dressed",
+        "Eat breakfast",
+        "Brush teeth (2 minutes)",
+        "Pack backpack",
+        "Put on shoes",
+        "Go to school"
+      ],
+      "age_range": "4-10",
+      "context": "home"
+    },
+    {
+      "title": "Bedtime Routine",
+      "steps": [
+        "Have a bath or shower",
+        "Put on pajamas",
+        "Brush teeth (2 minutes)",
+        "Choose a book",
+        "Read together",
+        "Say goodnight",
+        "Lights off",
+        "Go to sleep"
+      ],
+      "age_range": "3-10",
+      "context": "home"
+    },
+    {
+      "title": "School Day",
+      "steps": [
+        "Arrive at school",
+        "Morning meeting",
+        "Reading time",
+        "Snack break",
+        "Math",
+        "Lunch",
+        "Recess",
+        "Science or social studies",
+        "Art or music",
+        "Pack up",
+        "Go home"
+      ],
+      "age_range": "5-12",
+      "context": "school"
+    },
+    {
+      "title": "Grocery Trip",
+      "steps": [
+        "Get the shopping list",
+        "Put on shoes and coat",
+        "Drive to the store",
+        "Get a shopping cart",
+        "Find items on the list",
+        "Put items in the cart",
+        "Go to the checkout",
+        "Pay for groceries",
+        "Return the cart",
+        "Drive home",
+        "Put groceries away"
+      ],
+      "age_range": "4-8",
+      "context": "community"
+    },
+    {
+      "title": "Getting Ready for Bath",
+      "steps": [
+        "Take off clothes",
+        "Test water temperature",
+        "Get into the bath",
+        "Wash hair with shampoo (rinse)",
+        "Wash body with soap (rinse)",
+        "Get out of the bath",
+        "Dry off with towel",
+        "Put on pajamas"
+      ],
+      "age_range": "3-8",
+      "context": "home"
+    },
+    {
+      "title": "Dentist Visit",
+      "steps": [
+        "Arrive at the dentist office",
+        "Check in at the desk",
+        "Sit in the waiting room",
+        "Go to the dentist chair",
+        "Open mouth wide",
+        "Dentist counts teeth",
+        "Dentist cleans teeth (buzzing tool)",
+        "Rinse mouth with water",
+        "Dentist checks everything is healthy",
+        "Get a sticker or small reward",
+        "Go home"
+      ],
+      "age_range": "3-10",
+      "context": "medical"
+    }
+  ]
+}
